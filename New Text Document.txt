@@ -1,4 +1,8 @@
 tao la minh 1
+<<<<<<< HEAD
 tao la minh 2
 tao la minh 3
 tao la minh 4
+=======
+tao la minh 2
+>>>>>>> parent of b897acc... cm code 3
